@@ -11,10 +11,10 @@ import os
 
 # twitter credentials
 # keys and tokens from the twitter developer account
-consumer_key = 'e7bmCtJmJwoxYubpq8t9zv1hA'
-consumer_secret = '9u9y65OuoxIdjFLfD5mLcDiChEABWNfh0rDHYjlWFHoMnE0dnB'
-access_token = '912151897519226880-qfS43tvJqP207W1rZIMUHLgaZSfGQhF'
-access_token_secret = 'vGOlSWNHMhQlRC2vH3Gx2LxSIZPqQ9vkehA9bpJrGQhFw'
+consumer_key = 'consumer_key'
+consumer_secret = 'consumer_secret_key'
+access_token = 'access_token'
+access_token_secret = 'access_token_secret'
 
 
 # attempt authentication
